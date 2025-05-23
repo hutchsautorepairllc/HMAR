@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Hutch's Auto Repair LLC
+email: hutchsmobileautorepair@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  You've made it. Congratulations! Ready to save major $$$ on your vehicles repair bill? Our professional,
+  trained, and certified technicians help you get back on the road again without charging you an arm and a
+  leg. You won't even have to pay a tow when you take advantage of our mobile repair services. Set up your
+  appointment today.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  hutchsautorepairllc
 
 # Build settings
 theme: minima
